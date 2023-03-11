@@ -81,7 +81,7 @@ theme_mode:  dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://github.com/Desmondix/Desmondix.github.io/blob/master/img/924915.png'
+avatar: https://github.com/Desmondix/Desmondix.github.io/blob/master/img/924915.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
