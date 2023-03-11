@@ -6,7 +6,7 @@
   /* Framework color */
   --body-bg: var(--main-bg);
   --mask-bg: rgb(68, 69, 70);
-  --main-bg: rgb(27, 27, 30);
+  --main-bg: #191919;
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
@@ -36,7 +36,7 @@
     );
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-bg: radial-gradient(circle, #121212 0%, #131313 100%);
   --sidebar-muted-color: #6d6c6b;
   --sidebar-active-color: rgb(255, 255, 255, 0.8);
   --nav-cursor-color: rgb(183, 182, 182);
