@@ -14,17 +14,17 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Rome
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Alessandro Cristofanilli                          # the main title
 
-tagline: CS student, cybersecurity enthusiast, CTFs player, gamer   # it will display as the sub-title
+tagline: Cybersecurity specialist, CTFs player, gamer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-   Notes, ideas, htb-machines, various cybersecurity challenges
+   Notes, ideas, htb-machines, various cybersecurity challenges, cryptography, ctf, ctfs, hack the box
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://Desmondix.github.io'
@@ -39,14 +39,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Alessandro Cristofanilli
-  #email: example@domain.com             # change to your email address
+  email: cristofanillia@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Desmondix       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/alessandrocristofanilli/
 
 google_site_verification:               # fill in to your verification string
 
@@ -54,7 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-P5FDYHLGTP                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
